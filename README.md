@@ -24,11 +24,6 @@ npm install
 npm start
 ```
 
-### Prerequisites
-
-You need to have NODE.JS set up on your local machine.
-
-
 ### Deployment
 
 Execute the following commands on your terminal
